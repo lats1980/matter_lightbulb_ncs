@@ -44,6 +44,7 @@ endif()
 target_sources(app PRIVATE
     src/app_task.cpp
     src/main.cpp
+    src/test_shell.cpp
     src/zcl_callbacks.cpp
 )
 
